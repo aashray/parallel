@@ -1,0 +1,4 @@
+sysdep-unix.c:762: cilk assertion failed: sd->stack_op_routine == NULL
+sysdep-unix.c:763: cilk assertion failed: sd->stack_op_data == NULL
+[c401-002.stampede.tacc.utexas.edu:mpispawn_0][child_handler] MPI process (rank: 0, pid: 25911) terminated with signal 11 -> abort job
+[c401-002.stampede.tacc.utexas.edu:mpirun_rsh][process_mpispawn_connection] mpispawn_0 from node c401-002 aborted: MPI process error (1)

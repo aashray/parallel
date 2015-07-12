@@ -1,0 +1,14 @@
+#!/bin/bash
+#SBATCH -J mpi_cannons        # Job Name
+#SBATCH -o mpi_cannons.o%j    # Output and error file name (%j expands to jobID)
+#SBATCH -n 1 -N 1  # Total number of mpi tasks requested x #threads = 2*16 cores.
+#SBATCH -p development   # Queue (partition) name -- normal, 
+#SBATCH -t 01:30:00     # Run time (hh:mm:ss) - 1.5 hours
+#SBATCH --mail-user=aashray.arora@stonybrook.edu
+#SBATCH --mail-type=begin  # email me when the job starts
+#SBATCH --mail-type=end    # email me when the job finishes#SBATCH -t 01:30:00     # Run time (hh:mm:ss) - 1.5 hours
+
+export CILK_NWORKERS=16
+export MPI_WTIME_IS_GLOBAL=1
+
+time ibrun tacc_affinity ./mpi_matrix_size_cilk_2_14.out >> mpi_final_cannons_1nodes_cilk_2_14.txt

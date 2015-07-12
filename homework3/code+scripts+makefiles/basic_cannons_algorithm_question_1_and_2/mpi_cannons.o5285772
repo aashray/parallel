@@ -1,0 +1,2 @@
+slurmd[c406-603]: *** JOB 5285772 CANCELLED AT 2015-05-18T18:48:15 ***
+[c406-603.stampede.tacc.utexas.edu:mpirun_rsh][signal_processor] Caught signal 15, killing job

@@ -1,0 +1,8 @@
+TACC: Starting up job 4997595
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+[c407-003.stampede.tacc.utexas.edu:mpispawn_0][spawn_processes] Failed to execvp() './a34': ай5 (2)
+[c407-003.stampede.tacc.utexas.edu:mpispawn_0][child_handler] MPI process (rank: 0, pid: 122482) exited with status 1
+TACC: MPI job exited with code: 1
+ 
+TACC: Shutdown complete. Exiting.

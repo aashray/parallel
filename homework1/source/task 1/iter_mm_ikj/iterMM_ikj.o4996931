@@ -1,0 +1,21 @@
+TACC: Starting up job 4996931
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+CPU time used : 371.990000
+CPU time used : 372.170000
+CPU time used : 372.290000
+CPU time used : 372.260000
+CPU time used : 372.330000
+CPU time used : 372.710000
+CPU time used : 372.490000
+CPU time used : 372.550000
+CPU time used : 375.900000
+CPU time used : 372.810000
+CPU time used : 373.690000
+CPU time used : 372.930000
+CPU time used : 372.850000
+CPU time used : 372.790000
+CPU time used : 373.690000
+CPU time used : 373.620000
+ 
+TACC: Shutdown complete. Exiting.

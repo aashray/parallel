@@ -1,0 +1,65 @@
+Cilkview Scalability Analyzer V2.0.0, Build 3566
+
+Whole Program Statistics
+1) Parallelism Profile
+   Work :					 3,072 instructions
+   Span :					 61,735,409,840 instructions
+   Burdened span :				 67,275,882,140 instructions
+   Parallelism :				 0.00
+   Burdened parallelism :			 0.00
+   Number of spawns/syncs:			 6,272,929,622
+   Average instructions / strand :		 0
+   Strands along span :				 469,985
+   Average instructions / strand on span :	 131,356
+   Total number of atomic instructions : 	 6,272,988,555
+   Frame count :				 12,545,859,244
+
+2) Speedup Estimate
+     2 processors:	 0.00 - 0.00
+     4 processors:	 0.00 - 0.00
+     8 processors:	 0.00 - 0.00
+    16 processors:	 0.00 - 0.00
+    32 processors:	 0.00 - 0.00
+    64 processors:	 0.00 - 0.00
+   128 processors:	 0.00 - 0.00
+   256 processors:	 0.00 - 0.00
+
+Cilk Parallel Region(s) Statistics - Elapsed time: 0.028 seconds
+1) Parallelism Profile
+   Work :					 1,666,039,730,153 instructions
+   Span :					 61,929,407 instructions
+   Burdened span :				 5,602,386,707 instructions
+   Parallelism :				 26902.24
+   Burdened parallelism :			 297.38
+   Number of spawns/syncs:			 6,272,929,601
+   Average instructions / strand :		 88
+   Strands along span :				 234,971
+   Average instructions / strand on span :	 263
+   Total number of atomic instructions : 	 6,272,988,554
+   Frame count :				 12,545,859,244
+   Entries to parallel region :			 19,652
+
+2) Speedup Estimate
+     2 processors:	 1.90 - 2.00
+     4 processors:	 3.80 - 4.00
+     8 processors:	 7.60 - 8.00
+    16 processors:	 14.74 - 16.00
+    32 processors:	 27.18 - 32.00
+    64 processors:	 47.05 - 64.00
+   128 processors:	 74.16 - 128.00
+   256 processors:	 104.16 - 256.00
+Cannot open load file '--persist'
+line 0: util.c: No such file or directory
+
+Cannot open load file '--persist'
+line 0: util.c: No such file or directory
+
+Cannot open load file '--persist'
+line 0: util.c: No such file or directory
+
+Cannot open load file '--persist'
+line 0: util.c: No such file or directory
+
+Cannot open load file '--persist'
+line 0: util.c: No such file or directory
+

@@ -1,0 +1,11 @@
+
+Cilkview: Generating scalability data
+CPU time used is : 42.170000
+1
+334863
+
+cilkview: plotting data for "det-cc-cilkviewapi-v2"
+
+cilkview: plotting data for "Whole_Program"
+
+cilkview: plotting data for "Cilk_Parallel_Region(s)"

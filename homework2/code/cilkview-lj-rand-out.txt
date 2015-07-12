@@ -1,0 +1,9 @@
+
+Cilkview: Generating scalability data
+CPU time used  is : 1658.040000
+1
+3997962
+
+cilkview: plotting data for "Whole_Program"
+
+cilkview: plotting data for "Cilk_Parallel_Region(s)"

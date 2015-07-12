@@ -1,0 +1,56 @@
+Assertion failed in file src/mpid/ch3/src/ch3u_buffer.c at line 77: FALSE
+memcpy argument memory ranges overlap, dst_=0x7fffe6ca4500 src_=0x7fffe6ca4500 len_=262144
+
+[cli_0]: aborting job:
+internal ABORT - process 0
+Assertion failed in file src/mpid/ch3/src/ch3u_buffer.c at line 77: FALSE
+memcpy argument memory ranges overlap, dst_=0x7fff15e58fb0 src_=0x7fff15e58fb0 len_=262144
+
+[cli_1]: aborting job:
+internal ABORT - process 1
+Assertion failed in file src/mpid/ch3/src/ch3u_buffer.c at line 77: FALSE
+memcpy argument memory ranges overlap, dst_=0x7fff55fa9400 src_=0x7fff55fa9400 len_=262144
+
+[cli_2]: aborting job:
+internal ABORT - process 2
+Assertion failed in file src/mpid/ch3/src/ch3u_buffer.c at line 77: FALSE
+memcpy argument memory ranges overlap, dst_=0x7fff94540ea0 src_=0x7fff94540ea0 len_=262144
+
+[cli_3]: aborting job:
+internal ABORT - process 3
+Assertion failed in file src/mpid/ch3/src/ch3u_buffer.c at line 77: FALSE
+memcpy argument memory ranges overlap, dst_=0x7fff5d0bfa60 src_=0x7fff5d0bfa60 len_=262144
+
+[cli_8]: aborting job:
+internal ABORT - process 8
+Assertion failed in file src/mpid/ch3/src/ch3u_buffer.c at line 77: FALSE
+memcpy argument memory ranges overlap, dst_=0x7fff2dc49580 src_=0x7fff2dc49580 len_=262144
+
+[cli_4]: aborting job:
+internal ABORT - process 4
+Assertion failed in file src/mpid/ch3/src/ch3u_buffer.c at line 77: FALSE
+memcpy argument memory ranges overlap, dst_=0x7fff2fef0550 src_=0x7fff2fef0550 len_=262144
+
+[cli_12]: aborting job:
+internal ABORT - process 12
+[c557-501.stampede.tacc.utexas.edu:mpispawn_0][readline] Unexpected End-Of-File on file descriptor 5. MPI process died?
+[c557-501.stampede.tacc.utexas.edu:mpispawn_0][mtpmi_processops] Error while reading PMI socket. MPI process died?
+[c557-501.stampede.tacc.utexas.edu:mpispawn_0][child_handler] MPI process (rank: 0, pid: 103247) exited with status 1
+[c560-302.stampede.tacc.utexas.edu:mpispawn_3][readline] Unexpected End-Of-File on file descriptor 5. MPI process died?
+[c560-302.stampede.tacc.utexas.edu:mpispawn_3][mtpmi_processops] Error while reading PMI socket. MPI process died?
+[c560-302.stampede.tacc.utexas.edu:mpispawn_3][child_handler] MPI process (rank: 3, pid: 13439) exited with status 1
+[c560-403.stampede.tacc.utexas.edu:mpispawn_8][readline] Unexpected End-Of-File on file descriptor 5. MPI process died?
+[c560-403.stampede.tacc.utexas.edu:mpispawn_8][mtpmi_processops] Error while reading PMI socket. MPI process died?
+[c560-301.stampede.tacc.utexas.edu:mpispawn_2][readline] Unexpected End-Of-File on file descriptor 5. MPI process died?
+[c560-301.stampede.tacc.utexas.edu:mpispawn_2][mtpmi_processops] Error while reading PMI socket. MPI process died?
+[c560-204.stampede.tacc.utexas.edu:mpispawn_1][readline] Unexpected End-Of-File on file descriptor 5. MPI process died?
+[c560-204.stampede.tacc.utexas.edu:mpispawn_1][mtpmi_processops] Error while reading PMI socket. MPI process died?
+[c560-303.stampede.tacc.utexas.edu:mpispawn_4][readline] Unexpected End-Of-File on file descriptor 5. MPI process died?
+[c560-303.stampede.tacc.utexas.edu:mpispawn_4][mtpmi_processops] Error while reading PMI socket. MPI process died?
+[c560-403.stampede.tacc.utexas.edu:mpispawn_8][child_handler] MPI process (rank: 8, pid: 26957) exited with status 1
+[c560-503.stampede.tacc.utexas.edu:mpispawn_12][readline] Unexpected End-Of-File on file descriptor 5. MPI process died?
+[c560-503.stampede.tacc.utexas.edu:mpispawn_12][mtpmi_processops] Error while reading PMI socket. MPI process died?
+[c560-301.stampede.tacc.utexas.edu:mpispawn_2][child_handler] MPI process (rank: 2, pid: 37256) exited with status 1
+[c560-204.stampede.tacc.utexas.edu:mpispawn_1][child_handler] MPI process (rank: 1, pid: 30313) exited with status 1
+[c560-303.stampede.tacc.utexas.edu:mpispawn_4][child_handler] MPI process (rank: 4, pid: 40533) exited with status 1
+[c560-503.stampede.tacc.utexas.edu:mpispawn_12][child_handler] MPI process (rank: 12, pid: 24741) exited with status 1

@@ -1,0 +1,117 @@
+TACC: Starting up job 5253066
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+I am processor 15
+ Matrix A: 
+2 1
+0 7
+Matrix B:
+6 1
+4 5
+I am processor 12
+ Matrix A: 
+2 1
+0 7
+Matrix B:
+6 1
+4 5
+I am processor 6
+ Matrix A: 
+2 1
+0 7
+Matrix B:
+6 1
+4 5
+I am processor 1
+ Matrix A: 
+2 1
+0 7
+Matrix B:
+6 1
+4 5
+I am processor 4
+ Matrix A: 
+2 1
+0 7
+Matrix B:
+6 1
+4 5
+I am processor 8
+ Matrix A: 
+2 1
+0 7
+Matrix B:
+6 1
+4 5
+I am processor 3
+ Matrix A: 
+2 1
+0 7
+Matrix B:
+6 1
+4 5
+I am processor 7
+ Matrix A: 
+2 1
+0 7
+Matrix B:
+6 1
+4 5
+I am processor 2
+ Matrix A: 
+2 1
+0 7
+Matrix B:
+6 1
+4 5
+I am processor 9
+ Matrix A: 
+2 1
+0 7
+Matrix B:
+6 1
+4 5
+I am processor 13
+ Matrix A: 
+2 1
+0 7
+Matrix B:
+6 1
+4 5
+I am processor 5
+ Matrix A: 
+2 1
+0 7
+Matrix B:
+6 1
+4 5
+I am processor 0
+ Matrix A: 
+2 1
+0 7
+Matrix B:
+6 1
+4 5
+I am processor 14
+ Matrix A: 
+2 1
+0 7
+Matrix B:
+6 1
+4 5
+I am processor 11
+ Matrix A: 
+2 1
+0 7
+Matrix B:
+6 1
+4 5
+I am processor 10
+ Matrix A: 
+2 1
+0 7
+Matrix B:
+6 1
+4 5
+ 
+TACC: Shutdown complete. Exiting.

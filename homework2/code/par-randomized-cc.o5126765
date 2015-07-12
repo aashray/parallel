@@ -1,0 +1,56 @@
+Cilkview Scalability Analyzer V2.0.0, Build 3566
+
+Whole Program Statistics
+1) Parallelism Profile
+   Work :					 1,027,577,574,698 instructions
+   Span :					 62,251,432,729 instructions
+   Burdened span :				 62,711,785,104 instructions
+   Parallelism :				 16.51
+   Burdened parallelism :			 16.39
+   Number of spawns/syncs:			 3,652,999,873
+   Average instructions / strand :		 93
+   Strands along span :				 38,691
+   Average instructions / strand on span :	 1,608,938
+   Total number of atomic instructions : 	 3,653,004,037
+   Frame count :				 7,305,999,746
+
+2) Speedup Estimate
+     2 processors:	 1.81 - 2.00
+     4 processors:	 3.05 - 4.00
+     8 processors:	 4.63 - 8.00
+    16 processors:	 6.26 - 16.00
+    32 processors:	 7.59 - 16.51
+    64 processors:	 8.49 - 16.51
+   128 processors:	 9.03 - 16.51
+   256 processors:	 9.32 - 16.51
+
+Cilk Parallel Region(s) Statistics - Elapsed time: 15.762 seconds
+1) Parallelism Profile
+   Work :					 965,331,118,279 instructions
+   Span :					 4,976,310 instructions
+   Burdened span :				 465,328,685 instructions
+   Parallelism :				 193985.33
+   Burdened parallelism :			 2074.51
+   Number of spawns/syncs:			 3,652,999,873
+   Average instructions / strand :		 88
+   Strands along span :				 19,345
+   Average instructions / strand on span :	 257
+   Total number of atomic instructions : 	 3,653,004,037
+   Frame count :				 7,305,999,746
+   Entries to parallel region :			 1,388
+
+2) Speedup Estimate
+     2 processors:	 1.90 - 2.00
+     4 processors:	 3.80 - 4.00
+     8 processors:	 7.60 - 8.00
+    16 processors:	 15.20 - 16.00
+    32 processors:	 30.40 - 32.00
+    64 processors:	 60.80 - 64.00
+   128 processors:	 115.93 - 128.00
+   256 processors:	 211.75 - 256.00
+Cannot open load file '--persist'
+line 0: util.c: No such file or directory
+
+Cannot open load file '--persist'
+line 0: util.c: No such file or directory
+

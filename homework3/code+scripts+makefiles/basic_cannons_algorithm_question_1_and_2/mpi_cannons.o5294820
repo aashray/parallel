@@ -1,0 +1,12 @@
+numactl: execution of `./mpi_matrix_size_cilk_2_10.out': No such file or directory
+[c559-704.stampede.tacc.utexas.edu:mpispawn_0][child_handler] MPI process (rank: 0, pid: 108997) exited with status 1
+numactl: execution of `./mpi_matrix_size_cilk_2_10.out': No such file or directory
+[c559-803.stampede.tacc.utexas.edu:mpispawn_3][child_handler] MPI process (rank: 3, pid: 28325) exited with status 1
+numactl: execution of `./mpi_matrix_size_cilk_2_10.out': No such file or directory
+[c559-801.stampede.tacc.utexas.edu:mpispawn_1][child_handler] MPI process (rank: 1, pid: 110491) exited with status 1
+numactl: execution of `./mpi_matrix_size_cilk_2_10.out': No such file or directory
+[c559-802.stampede.tacc.utexas.edu:mpispawn_2][child_handler] MPI process (rank: 2, pid: 104151) exited with status 1
+
+real	0m3.005s
+user	0m0.572s
+sys	0m0.762s

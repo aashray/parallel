@@ -1,0 +1,11 @@
+#!/bin/bash
+
+#SBATCH -J parallel_recur__parenthesis_no_base          # job name
+#SBATCH -o auto_parallel_recur_parenthesis_no_base.o%j       # output and error file name (%j expands to jobID)
+#SBATCH -n 16              # total number of mpi tasks requested
+#SBATCH -p normal     # queue (partition) -- normal, development, etc.
+#SBATCH -t 09:30:00        # run time (hh:mm:ss) - 1.5 hours
+#SBATCH --mail-user=aashray.arora@stonybrook.edu
+#SBATCH --mail-type=begin  # email me when the job starts
+#SBATCH --mail-type=end    # email me when the job finishes
+ibrun ./new_recur_parenthesis_no_base.o $1              # run the MPI executable named a.out

@@ -1,0 +1,2 @@
+[c402-804.stampede.tacc.utexas.edu:mpispawn_0][child_handler] MPI process (rank: 0, pid: 35768) terminated with signal 11 -> abort job
+[c402-804.stampede.tacc.utexas.edu:mpirun_rsh][process_mpispawn_connection] mpispawn_0 from node c402-804 aborted: MPI process error (1)

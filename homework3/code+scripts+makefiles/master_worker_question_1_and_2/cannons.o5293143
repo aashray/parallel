@@ -1,0 +1,2 @@
+slurmd[c536-904]: *** JOB 5293143 CANCELLED AT 2015-05-20T03:11:50 DUE TO TIME LIMIT ***
+[c536-904.stampede.tacc.utexas.edu:mpirun_rsh][signal_processor] Caught signal 15, killing job

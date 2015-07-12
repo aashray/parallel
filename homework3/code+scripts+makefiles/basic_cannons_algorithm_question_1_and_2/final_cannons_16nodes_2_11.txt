@@ -1,0 +1,42 @@
+TACC: Starting up job 5286193
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+Elapsed: 0.220000 seconds
+Elapsed: 0.220000 seconds
+Elapsed: 0.220000 seconds
+Elapsed: 0.210000 seconds
+Elapsed: 0.210000 seconds
+Elapsed: 0.220000 seconds
+Elapsed: 0.220000 seconds
+Elapsed: 0.210000 seconds
+Elapsed: 0.220000 seconds
+Elapsed: 0.210000 seconds
+Elapsed: 0.220000 seconds
+Elapsed: 0.220000 seconds
+Elapsed: 0.210000 seconds
+Elapsed: 0.220000 seconds
+Elapsed: 0.220000 seconds
+Elapsed: 0.220000 seconds
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 5291678
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+Elapsed: 1.660000 seconds
+Elapsed: 1.660000 seconds
+Elapsed: 1.660000 seconds
+Elapsed: 1.660000 seconds
+Elapsed: 1.650000 seconds
+Elapsed: 1.660000 seconds
+Elapsed: 1.670000 seconds
+Elapsed: 1.660000 seconds
+Elapsed: 1.660000 seconds
+Elapsed: 1.670000 seconds
+Elapsed: 1.660000 seconds
+Elapsed: 1.660000 seconds
+Elapsed: 1.670000 seconds
+Elapsed: 1.670000 seconds
+Elapsed: 1.660000 seconds
+Elapsed: 1.670000 seconds
+ 
+TACC: Shutdown complete. Exiting.

@@ -1,0 +1,53 @@
+[c560-602.stampede.tacc.utexas.edu:mpispawn_6][readline] Unexpected End-Of-File on file descriptor 15. MPI process died?
+[c560-602.stampede.tacc.utexas.edu:mpispawn_6][mtpmi_processops] Error while reading PMI socket. MPI process died?
+[c560-703.stampede.tacc.utexas.edu:mpispawn_11][readline] Unexpected End-Of-File on file descriptor 15. MPI process died?
+[c560-703.stampede.tacc.utexas.edu:mpispawn_11][mtpmi_processops] Error while reading PMI socket. MPI process died?
+[c560-503.stampede.tacc.utexas.edu:mpispawn_3][readline] Unexpected End-Of-File on file descriptor 15. MPI process died?
+[c560-503.stampede.tacc.utexas.edu:mpispawn_3][mtpmi_processops] Error while reading PMI socket. MPI process died?
+[c560-801.stampede.tacc.utexas.edu:mpispawn_13][readline] Unexpected End-Of-File on file descriptor 14. MPI process died?
+[c560-801.stampede.tacc.utexas.edu:mpispawn_13][mtpmi_processops] Error while reading PMI socket. MPI process died?
+[c560-704.stampede.tacc.utexas.edu:mpispawn_12][readline] Unexpected End-Of-File on file descriptor 9. MPI process died?
+[c560-704.stampede.tacc.utexas.edu:mpispawn_12][mtpmi_processops] Error while reading PMI socket. MPI process died?
+[c560-803.stampede.tacc.utexas.edu:mpispawn_15][readline] Unexpected End-Of-File on file descriptor 13. MPI process died?
+[c560-803.stampede.tacc.utexas.edu:mpispawn_15][mtpmi_processops] Error while reading PMI socket. MPI process died?
+[c560-604.stampede.tacc.utexas.edu:mpispawn_8][readline] Unexpected End-Of-File on file descriptor 20. MPI process died?
+[c560-604.stampede.tacc.utexas.edu:mpispawn_8][mtpmi_processops] Error while reading PMI socket. MPI process died?
+[c560-702.stampede.tacc.utexas.edu:mpispawn_10][readline] Unexpected End-Of-File on file descriptor 18. MPI process died?
+[c560-702.stampede.tacc.utexas.edu:mpispawn_10][mtpmi_processops] Error while reading PMI socket. MPI process died?
+[c560-501.stampede.tacc.utexas.edu:mpispawn_1][readline] Unexpected End-Of-File on file descriptor 15. MPI process died?
+[c560-501.stampede.tacc.utexas.edu:mpispawn_1][mtpmi_processops] Error while reading PMI socket. MPI process died?
+[c560-802.stampede.tacc.utexas.edu:mpispawn_14][readline] Unexpected End-Of-File on file descriptor 7. MPI process died?
+[c560-802.stampede.tacc.utexas.edu:mpispawn_14][mtpmi_processops] Error while reading PMI socket. MPI process died?
+[c560-603.stampede.tacc.utexas.edu:mpispawn_7][readline] Unexpected End-Of-File on file descriptor 16. MPI process died?
+[c560-603.stampede.tacc.utexas.edu:mpispawn_7][mtpmi_processops] Error while reading PMI socket. MPI process died?
+[c560-502.stampede.tacc.utexas.edu:mpispawn_2][readline] Unexpected End-Of-File on file descriptor 20. MPI process died?
+[c560-502.stampede.tacc.utexas.edu:mpispawn_2][mtpmi_processops] Error while reading PMI socket. MPI process died?
+[c560-404.stampede.tacc.utexas.edu:mpispawn_0][readline] Unexpected End-Of-File on file descriptor 11. MPI process died?
+[c560-404.stampede.tacc.utexas.edu:mpispawn_0][mtpmi_processops] Error while reading PMI socket. MPI process died?
+[c560-701.stampede.tacc.utexas.edu:mpispawn_9][readline] Unexpected End-Of-File on file descriptor 16. MPI process died?
+[c560-701.stampede.tacc.utexas.edu:mpispawn_9][mtpmi_processops] Error while reading PMI socket. MPI process died?
+[c560-501.stampede.tacc.utexas.edu:mpispawn_1][child_handler] MPI process (rank: 21, pid: 79129) terminated with signal 11 -> abort job
+[c560-802.stampede.tacc.utexas.edu:mpispawn_14][child_handler] MPI process (rank: 237, pid: 6636) terminated with signal 11 -> abort job
+[c560-801.stampede.tacc.utexas.edu:mpispawn_13][child_handler] MPI process (rank: 217, pid: 82447) terminated with signal 11 -> abort job
+[c560-502.stampede.tacc.utexas.edu:mpispawn_2][child_handler] MPI process (rank: 39, pid: 4417) terminated with signal 11 -> abort job
+[c560-604.stampede.tacc.utexas.edu:mpispawn_8][child_handler] MPI process (rank: 138, pid: 15074) terminated with signal 11 -> abort job
+[c560-703.stampede.tacc.utexas.edu:mpispawn_11][child_handler] MPI process (rank: 191, pid: 75332) terminated with signal 11 -> abort job
+[c560-603.stampede.tacc.utexas.edu:mpispawn_7][child_handler] MPI process (rank: 123, pid: 79783) terminated with signal 11 -> abort job
+[c560-503.stampede.tacc.utexas.edu:mpispawn_3][child_handler] MPI process (rank: 62, pid: 63557) terminated with signal 11 -> abort job
+[c560-803.stampede.tacc.utexas.edu:mpispawn_15][child_handler] MPI process (rank: 249, pid: 66988) terminated with signal 11 -> abort job
+[c560-602.stampede.tacc.utexas.edu:mpispawn_6][child_handler] MPI process (rank: 109, pid: 69030) terminated with signal 11 -> abort job
+[c560-704.stampede.tacc.utexas.edu:mpispawn_12][child_handler] MPI process (rank: 203, pid: 76297) terminated with signal 11 -> abort job
+[c560-702.stampede.tacc.utexas.edu:mpispawn_10][child_handler] MPI process (rank: 168, pid: 75869) terminated with signal 11 -> abort job
+[c560-404.stampede.tacc.utexas.edu:mpispawn_0][child_handler] MPI process (rank: 8, pid: 80898) terminated with signal 11 -> abort job
+[c560-701.stampede.tacc.utexas.edu:mpispawn_9][child_handler] MPI process (rank: 158, pid: 67235) terminated with signal 11 -> abort job
+[c560-601.stampede.tacc.utexas.edu:mpispawn_5][readline] Unexpected End-Of-File on file descriptor 10. MPI process died?
+[c560-601.stampede.tacc.utexas.edu:mpispawn_5][mtpmi_processops] Error while reading PMI socket. MPI process died?
+[c560-504.stampede.tacc.utexas.edu:mpispawn_4][readline] Unexpected End-Of-File on file descriptor 12. MPI process died?
+[c560-504.stampede.tacc.utexas.edu:mpispawn_4][mtpmi_processops] Error while reading PMI socket. MPI process died?
+[c560-601.stampede.tacc.utexas.edu:mpispawn_5][child_handler] MPI process (rank: 88, pid: 71977) terminated with signal 11 -> abort job
+[c560-504.stampede.tacc.utexas.edu:mpispawn_4][child_handler] MPI process (rank: 76, pid: 20187) terminated with signal 11 -> abort job
+[c560-404.stampede.tacc.utexas.edu:mpirun_rsh][process_mpispawn_connection] mpispawn_13 from node c560-801 aborted: Error while reading a PMI socket (4)
+
+real	0m11.422s
+user	0m1.718s
+sys	0m0.396s

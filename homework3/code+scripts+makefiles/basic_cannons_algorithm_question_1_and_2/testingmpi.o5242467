@@ -1,0 +1,438 @@
+TACC: Starting up job 5242467
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+TACC: Starting up job 5242467
+TACC: Starting up job 5242467
+TACC: Starting up job 5242467
+TACC: Starting up job 5242467
+TACC: Starting up job 5242467
+TACC: Starting up job 5242467
+TACC: Starting up job 5242467
+TACC: Starting up job 5242467
+TACC: Starting up job 5242467
+TACC: Starting up job 5242467
+TACC: Starting up job 5242467
+TACC: Starting up job 5242467
+TACC: Starting up job 5242467
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting up job 5242467
+TACC: Starting up job 5242467
+scontrol: error: host list is empty
+TACC: Starting up job 5242467
+scontrol: error: host list is empty
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+scontrol: error: host list is empty
+scontrol: error: host list is empty
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+scontrol: error: host list is empty
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+scontrol: error: host list is empty
+scontrol: error: host list is empty
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+scontrol: error: host list is empty
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+scontrol: error: host list is empty
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+scontrol: error: host list is empty
+scontrol: error: host list is empty
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+scontrol: error: host list is empty
+scontrol: error: host list is empty
+scontrol: error: host list is empty
+scontrol: error: host list is empty
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+scontrol: error: host list is empty
+scontrol: error: host list is empty
+scontrol: error: host list is empty
+scontrol: error: host list is empty
+scontrol: error: host list is empty
+scontrol: error: host list is empty
+scontrol: error: host list is empty
+scontrol: error: host list is empty
+scontrol: error: host list is empty
+scontrol: error: host list is empty
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+scontrol: error: host list is empty
+scontrol: error: host list is empty
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+scontrol: error: host list is empty
+scontrol: error: host list is empty
+scontrol: error: host list is empty
+scontrol: error: host list is empty
+scontrol: error: host list is empty
+TACC: Starting up job 5242467
+TACC: Starting up job 5242467
+TACC: Starting up job 5242467
+TACC: Starting up job 5242467
+TACC: Starting up job 5242467
+TACC: Starting up job 5242467
+TACC: Starting up job 5242467
+TACC: Starting up job 5242467
+TACC: Starting up job 5242467
+TACC: Starting up job 5242467
+TACC: Starting up job 5242467
+TACC: Starting up job 5242467
+TACC: Starting up job 5242467
+TACC: Starting up job 5242467
+TACC: Starting up job 5242467
+TACC: Starting up job 5242467
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+scontrol: error: host list is empty
+scontrol: error: host list is empty
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+scontrol: error: host list is empty
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+scontrol: error: host list is empty
+scontrol: error: host list is empty
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+scontrol: error: host list is empty
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+scontrol: error: host list is empty
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+scontrol: error: host list is empty
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+scontrol: error: host list is empty
+scontrol: error: host list is empty
+scontrol: error: host list is empty
+scontrol: error: host list is empty
+scontrol: error: host list is empty
+scontrol: error: host list is empty
+scontrol: error: host list is empty
+scontrol: error: host list is empty
+scontrol: error: host list is empty
+scontrol: error: host list is empty
+scontrol: error: host list is empty
+scontrol: error: host list is empty
+scontrol: error: host list is empty
+scontrol: error: host list is empty
+scontrol: error: host list is empty
+scontrol: error: host list is empty
+scontrol: error: host list is empty
+scontrol: error: host list is empty
+scontrol: error: host list is empty
+scontrol: error: host list is empty
+scontrol: error: host list is empty
+scontrol: error: host list is empty
+scontrol: error: host list is empty
+scontrol: error: host list is empty
+*******************************************************
+*******************************************************
+ WARNING: Your MPI Environment is :       mvapich2/nil
+          Your executable was built with: mvapich2/1.9a2
+*******************************************************
+*******************************************************
+ WARNING: Your MPI Environment is :       mvapich2/nil
+          Your executable was built with: mvapich2/1.9a2
+*******************************************************
+ WARNING: Your MPI Environment is :       mvapich2/nil
+          Your executable was built with: mvapich2/1.9a2
+*******************************************************
+*******************************************************
+ WARNING: Your MPI Environment is :       mvapich2/nil
+          Your executable was built with: mvapich2/1.9a2
+*******************************************************
+*******************************************************
+*******************************************************
+ WARNING: Your MPI Environment is :       mvapich2/nil
+          Your executable was built with: mvapich2/1.9a2
+*******************************************************
+*******************************************************
+ WARNING: Your MPI Environment is :       mvapich2/nil
+          Your executable was built with: mvapich2/1.9a2
+*******************************************************
+ WARNING: Your MPI Environment is :       mvapich2/nil
+*******************************************************
+          Your executable was built with:  WARNING: Your MPI Environment is :       *******************************************************
+mvapich2/1.9a2mvapich2/nil WARNING: Your MPI Environment is :       
+
+*******************************************************
+mvapich2/nil          Your executable was built with: mvapich2/1.9a2
+
+          Your executable was built with: *******************************************************
+mvapich2/1.9a2
+*******************************************************
+*******************************************************
+ WARNING: Your MPI Environment is :       mvapich2/nil
+          Your executable was built with: mvapich2/1.9a2
+*******************************************************
+*******************************************************
+ WARNING: Your MPI Environment is :       mvapich2/nil
+          Your executable was built with: mvapich2/1.9a2
+*******************************************************
+*******************************************************
+ WARNING: Your MPI Environment is :       mvapich2/nil
+          Your executable was built with: mvapich2/1.9a2
+*******************************************************
+*******************************************************
+*******************************************************
+ WARNING: Your MPI Environment is :       mvapich2/nil
+          Your executable was built with: mvapich2/1.9a2
+*******************************************************
+ WARNING: Your MPI Environment is :       *******************************************************
+ WARNING: Your MPI Environment is :       mvapich2/nil
+          Your executable was built with: mvapich2/1.9a2
+*******************************************************
+mvapich2/nil*******************************************************
+ WARNING: Your MPI Environment is :       mvapich2/nil
+          Your executable was built with: mvapich2/1.9a2
+*******************************************************
+
+          Your executable was built with: mvapich2/1.9a2
+*******************************************************
+TACC: Starting parallel tasks...
+TACC: Starting parallel tasks...
+TACC: Starting parallel tasks...
+TACC: Starting parallel tasks...
+TACC: Starting parallel tasks...
+TACC: Starting parallel tasks...
+TACC: Starting parallel tasks...
+TACC: Starting parallel tasks...
+TACC: Starting parallel tasks...
+TACC: Starting parallel tasks...
+TACC: Starting parallel tasks...
+TACC: Starting parallel tasks...
+TACC: Starting parallel tasks...
+TACC: Starting parallel tasks...
+TACC: Starting parallel tasks...
+TACC: Starting parallel tasks...
+[c404-903.stampede.tacc.utexas.edu:mpirun_rsh][read_hostfile] Can't open hostfile `/home1/03442/tg827408/.slurm/job.5242467.hostlist.qBBYZqRj':  (2)
+[c404-903.stampede.tacc.utexas.edu:mpirun_rsh][read_hostfile] Can't open hostfile `/home1/03442/tg827408/.slurm/job.5242467.hostlist.gLLr1zUz':  (2)
+[c404-903.stampede.tacc.utexas.edu:mpirun_rsh][read_hostfile] Can't open hostfile `/home1/03442/tg827408/.slurm/job.5242467.hostlist.w1tnOv4X':  (2)
+[c404-903.stampede.tacc.utexas.edu:mpirun_rsh][read_hostfile] Can't open hostfile `/home1/03442/tg827408/.slurm/job.5242467.hostlist.CbTyfuIf':  (2)
+[c404-903.stampede.tacc.utexas.edu:mpirun_rsh][read_hostfile] Can't open hostfile `/home1/03442/tg827408/.slurm/job.5242467.hostlist.aADxudrC':  (2)
+[c404-903.stampede.tacc.utexas.edu:mpirun_rsh][read_hostfile] Can't open hostfile `/home1/03442/tg827408/.slurm/job.5242467.hostlist.yqLzCBg8':  (2)
+[c404-903.stampede.tacc.utexas.edu:mpirun_rsh][read_hostfile] Can't open hostfile `/home1/03442/tg827408/.slurm/job.5242467.hostlist.uQH9LS0h':  (2)
+[c404-903.stampede.tacc.utexas.edu:mpirun_rsh][read_hostfile] Can't open hostfile `/home1/03442/tg827408/.slurm/job.5242467.hostlist.NSmQPgts':  (2)
+[c404-903.stampede.tacc.utexas.edu:mpirun_rsh][read_hostfile] Can't open hostfile `/home1/03442/tg827408/.slurm/job.5242467.hostlist.aMYMONFp':  (2)
+[c404-903.stampede.tacc.utexas.edu:mpirun_rsh][read_hostfile] Can't open hostfile `/home1/03442/tg827408/.slurm/job.5242467.hostlist.1mbyhy4n':  (2)
+[c404-903.stampede.tacc.utexas.edu:mpirun_rsh][read_hostfile] Can't open hostfile `/home1/03442/tg827408/.slurm/job.5242467.hostlist.syQwKrrF':  (2)
+[c404-903.stampede.tacc.utexas.edu:mpirun_rsh][read_hostfile] Can't open hostfile `/home1/03442/tg827408/.slurm/job.5242467.hostlist.jkF0mGQy':  (2)
+[c404-903.stampede.tacc.utexas.edu:mpirun_rsh][read_hostfile] Can't open hostfile `/home1/03442/tg827408/.slurm/job.5242467.hostlist.Fk9yP5NW':  (2)
+[c404-903.stampede.tacc.utexas.edu:mpirun_rsh][read_hostfile] Can't open hostfile `/home1/03442/tg827408/.slurm/job.5242467.hostlist.cqq10Auv':  (2)
+[c404-903.stampede.tacc.utexas.edu:mpirun_rsh][read_hostfile] Can't open hostfile `/home1/03442/tg827408/.slurm/job.5242467.hostlist.230DvhHQ':  (2)
+[c404-903.stampede.tacc.utexas.edu:mpirun_rsh][read_hostfile] Can't open hostfile `/home1/03442/tg827408/.slurm/job.5242467.hostlist.m0HH1keU':  (2)
+TACC: MPI job exited with code: 1
+ 
+TACC: Shutdown complete. Exiting.
+TACC: MPI job exited with code: 1
+ 
+TACC: Shutdown complete. Exiting.
+TACC: MPI job exited with code: 1
+ 
+TACC: Shutdown complete. Exiting.
+TACC: MPI job exited with code: 1
+ 
+TACC: Shutdown complete. Exiting.
+TACC: MPI job exited with code: 1
+ 
+TACC: Shutdown complete. Exiting.
+TACC: MPI job exited with code: 1
+ 
+TACC: Shutdown complete. Exiting.
+TACC: MPI job exited with code: 1
+TACC: MPI job exited with code: 1
+ 
+TACC: Shutdown complete. Exiting.
+ 
+TACC: Shutdown complete. Exiting.
+TACC: MPI job exited with code: 1
+ 
+TACC: Shutdown complete. Exiting.
+TACC: MPI job exited with code: 1
+ 
+TACC: Shutdown complete. Exiting.
+TACC: MPI job exited with code: 1
+ 
+TACC: Shutdown complete. Exiting.
+TACC: MPI job exited with code: 1
+ 
+TACC: Shutdown complete. Exiting.
+TACC: MPI job exited with code: 1
+ 
+TACC: Shutdown complete. Exiting.
+TACC: MPI job exited with code: 1
+ 
+TACC: Shutdown complete. Exiting.
+TACC: MPI job exited with code: 1
+ 
+TACC: Shutdown complete. Exiting.
+TACC: MPI job exited with code: 1
+ 
+TACC: Shutdown complete. Exiting.
+[c404-903.stampede.tacc.utexas.edu:mpispawn_0][child_handler] MPI process (rank: 5, pid: 38615) exited with status 1
+[c404-903.stampede.tacc.utexas.edu:mpispawn_0][child_handler] MPI process (rank: 0, pid: 38610) exited with status 1
+[c404-903.stampede.tacc.utexas.edu:mpispawn_0][child_handler] MPI process (rank: 1, pid: 38611) exited with status 1
+[c404-903.stampede.tacc.utexas.edu:mpispawn_0][child_handler] MPI process (rank: 2, pid: 38612) exited with status 1
+[c404-903.stampede.tacc.utexas.edu:mpispawn_0][child_handler] MPI process (rank: 3, pid: 38613) exited with status 1
+[c404-903.stampede.tacc.utexas.edu:mpispawn_0][child_handler] MPI process (rank: 4, pid: 38614) exited with status 1
+[c404-903.stampede.tacc.utexas.edu:mpispawn_0][child_handler] MPI process (rank: 6, pid: 38616) exited with status 1
+[c404-903.stampede.tacc.utexas.edu:mpispawn_0][child_handler] MPI process (rank: 7, pid: 38617) exited with status 1
+[c404-903.stampede.tacc.utexas.edu:mpispawn_0][child_handler] MPI process (rank: 8, pid: 38618) exited with status 1
+[c404-903.stampede.tacc.utexas.edu:mpispawn_0][child_handler] MPI process (rank: 9, pid: 38619) exited with status 1
+[c404-903.stampede.tacc.utexas.edu:mpispawn_0][child_handler] MPI process (rank: 10, pid: 38620) exited with status 1
+[c404-903.stampede.tacc.utexas.edu:mpispawn_0][child_handler] MPI process (rank: 11, pid: 38621) exited with status 1
+[c404-903.stampede.tacc.utexas.edu:mpispawn_0][child_handler] MPI process (rank: 12, pid: 38622) exited with status 1
+[c404-903.stampede.tacc.utexas.edu:mpispawn_0][child_handler] MPI process (rank: 13, pid: 38623) exited with status 1
+[c404-903.stampede.tacc.utexas.edu:mpispawn_0][child_handler] MPI process (rank: 14, pid: 38624) exited with status 1
+[c404-903.stampede.tacc.utexas.edu:mpispawn_0][child_handler] MPI process (rank: 15, pid: 38625) exited with status 1
+*******************************************************
+ WARNING: Your MPI Environment is :       mvapich2/nil
+          Your executable was built with: mvapich2/1.9a2
+*******************************************************
+*******************************************************
+ WARNING: Your MPI Environment is :       mvapich2/nil
+          Your executable was built with: mvapich2/1.9a2
+*******************************************************
+*******************************************************
+ WARNING: Your MPI Environment is :       mvapich2/nil
+          Your executable was built with: mvapich2/1.9a2
+*******************************************************
+*******************************************************
+*******************************************************
+ WARNING: Your MPI Environment is :       mvapich2/nil
+          Your executable was built with: mvapich2/1.9a2
+*******************************************************
+ WARNING: Your MPI Environment is :       mvapich2/nil*******************************************************
+ WARNING: Your MPI Environment is :       mvapich2/nil
+          Your executable was built with: mvapich2/1.9a2
+*******************************************************
+
+          Your executable was built with: mvapich2/1.9a2
+*******************************************************
+*******************************************************
+ WARNING: Your MPI Environment is :       mvapich2/nil*******************************************************
+ WARNING: Your MPI Environment is :       mvapich2/nil
+          Your executable was built with: mvapich2/1.9a2
+*******************************************************
+
+          Your executable was built with: mvapich2/1.9a2
+*******************************************************
+ WARNING: Your MPI Environment is :       mvapich2/nil
+          Your executable was built with: mvapich2/1.9a2
+*******************************************************
+*******************************************************
+*******************************************************
+ WARNING: Your MPI Environment is :       mvapich2/nil
+          Your executable was built with: mvapich2/1.9a2
+*******************************************************
+*******************************************************
+ WARNING: Your MPI Environment is :       *******************************************************
+ WARNING: Your MPI Environment is :       mvapich2/nil
+          Your executable was built with: mvapich2/1.9a2
+*******************************************************
+mvapich2/nil
+          Your executable was built with: mvapich2/1.9a2
+*******************************************************
+*******************************************************
+ WARNING: Your MPI Environment is :       mvapich2/nil
+          Your executable was built with: mvapich2/1.9a2
+*******************************************************
+*******************************************************
+ WARNING: Your MPI Environment is :       mvapich2/nil
+          Your executable was built with: mvapich2/1.9a2
+*******************************************************
+*******************************************************
+ WARNING: Your MPI Environment is :       mvapich2/nil
+          Your executable was built with: mvapich2/1.9a2
+*******************************************************
+*******************************************************
+ WARNING: Your MPI Environment is :       mvapich2/nil
+          Your executable was built with: mvapich2/1.9a2
+*******************************************************
+TACC: Starting parallel tasks...
+TACC: Starting parallel tasks...
+TACC: Starting parallel tasks...
+TACC: Starting parallel tasks...
+TACC: Starting parallel tasks...
+TACC: Starting parallel tasks...
+TACC: Starting parallel tasks...
+TACC: Starting parallel tasks...
+TACC: Starting parallel tasks...
+TACC: Starting parallel tasks...
+TACC: Starting parallel tasks...
+TACC: Starting parallel tasks...
+TACC: Starting parallel tasks...
+TACC: Starting parallel tasks...
+TACC: Starting parallel tasks...
+TACC: Starting parallel tasks...
+[c456-002.stampede.tacc.utexas.edu:mpirun_rsh][read_hostfile] Can't open hostfile `/home1/03442/tg827408/.slurm/job.5242467.hostlist.JZFk7vJr':  (2)
+[c456-002.stampede.tacc.utexas.edu:mpirun_rsh][read_hostfile] Can't open hostfile `/home1/03442/tg827408/.slurm/job.5242467.hostlist.boaAFC2I':  (2)
+[c456-002.stampede.tacc.utexas.edu:mpirun_rsh][read_hostfile] Can't open hostfile `/home1/03442/tg827408/.slurm/job.5242467.hostlist.nQrOokPv':  (2)
+[c456-002.stampede.tacc.utexas.edu:mpirun_rsh][read_hostfile] Can't open hostfile `/home1/03442/tg827408/.slurm/job.5242467.hostlist.FM9DidFD':  (2)
+[c456-002.stampede.tacc.utexas.edu:mpirun_rsh][read_hostfile] Can't open hostfile `/home1/03442/tg827408/.slurm/job.5242467.hostlist.ncd4zedA':  (2)
+[c456-002.stampede.tacc.utexas.edu:mpirun_rsh][read_hostfile] Can't open hostfile `/home1/03442/tg827408/.slurm/job.5242467.hostlist.fnfwtETj':  (2)
+[c456-002.stampede.tacc.utexas.edu:mpirun_rsh][read_hostfile] Can't open hostfile `/home1/03442/tg827408/.slurm/job.5242467.hostlist.bwIFd0K5':  (2)
+[c456-002.stampede.tacc.utexas.edu:mpirun_rsh][read_hostfile] Can't open hostfile `/home1/03442/tg827408/.slurm/job.5242467.hostlist.V28waIMK':  (2)
+[c456-002.stampede.tacc.utexas.edu:mpirun_rsh][read_hostfile] Can't open hostfile `/home1/03442/tg827408/.slurm/job.5242467.hostlist.sJprLZfW':  (2)
+[c456-002.stampede.tacc.utexas.edu:mpirun_rsh][read_hostfile] Can't open hostfile `/home1/03442/tg827408/.slurm/job.5242467.hostlist.REKDKFM1':  (2)
+[c456-002.stampede.tacc.utexas.edu:mpirun_rsh][read_hostfile] Can't open hostfile `/home1/03442/tg827408/.slurm/job.5242467.hostlist.3O5xBklG':  (2)
+[c456-002.stampede.tacc.utexas.edu:mpirun_rsh][read_hostfile] Can't open hostfile `/home1/03442/tg827408/.slurm/job.5242467.hostlist.YkmcwZFO':  (2)
+[c456-002.stampede.tacc.utexas.edu:mpirun_rsh][read_hostfile] Can't open hostfile `/home1/03442/tg827408/.slurm/job.5242467.hostlist.HO967Vqa':  (2)
+[c456-002.stampede.tacc.utexas.edu:mpirun_rsh][read_hostfile] Can't open hostfile `/home1/03442/tg827408/.slurm/job.5242467.hostlist.VXpHaBbh':  (2)
+[c456-002.stampede.tacc.utexas.edu:mpirun_rsh][read_hostfile] Can't open hostfile `/home1/03442/tg827408/.slurm/job.5242467.hostlist.rY9MHrb1':  (2)
+[c456-002.stampede.tacc.utexas.edu:mpirun_rsh][read_hostfile] Can't open hostfile `/home1/03442/tg827408/.slurm/job.5242467.hostlist.e6u99qwm':  (2)
+TACC: MPI job exited with code: 1
+ 
+TACC: Shutdown complete. Exiting.
+TACC: MPI job exited with code: 1
+ 
+TACC: MPI job exited with code: 1
+TACC: Shutdown complete. Exiting.
+TACC: MPI job exited with code: 1
+TACC: MPI job exited with code: 1
+ 
+TACC: Shutdown complete. Exiting.
+ 
+TACC: Shutdown complete. Exiting.
+ 
+TACC: Shutdown complete. Exiting.
+TACC: MPI job exited with code: 1
+ 
+TACC: Shutdown complete. Exiting.
+TACC: MPI job exited with code: 1
+ 
+TACC: Shutdown complete. Exiting.
+TACC: MPI job exited with code: 1
+ 
+TACC: Shutdown complete. Exiting.
+TACC: MPI job exited with code: 1
+ 
+TACC: Shutdown complete. Exiting.
+TACC: MPI job exited with code: 1
+ 
+TACC: Shutdown complete. Exiting.
+TACC: MPI job exited with code: 1
+TACC: MPI job exited with code: 1
+ 
+TACC: Shutdown complete. Exiting.
+ 
+TACC: Shutdown complete. Exiting.
+TACC: MPI job exited with code: 1
+ 
+TACC: Shutdown complete. Exiting.
+TACC: MPI job exited with code: 1
+ 
+TACC: Shutdown complete. Exiting.
+TACC: MPI job exited with code: 1
+TACC: MPI job exited with code: 1
+ 
+TACC: Shutdown complete. Exiting.
+ 
+TACC: Shutdown complete. Exiting.
+TACC: MPI job exited with code: 1
+ 
+TACC: Shutdown complete. Exiting.

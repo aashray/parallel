@@ -1,0 +1,90 @@
+TACC: Starting up job 5294666
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+Elapsed: 0.010000 seconds
+Elapsed: 0.010000 seconds
+Elapsed: 0.010000 seconds
+Elapsed: 0.010000 seconds
+Elapsed: 0.020000 seconds
+Elapsed: 0.010000 seconds
+Elapsed: 0.000000 seconds
+Elapsed: 0.010000 seconds
+Elapsed: 0.010000 seconds
+Elapsed: 0.010000 seconds
+Elapsed: 0.010000 seconds
+Elapsed: 0.010000 seconds
+Elapsed: 0.010000 seconds
+Elapsed: 0.010000 seconds
+Elapsed: 0.010000 seconds
+Elapsed: 0.010000 seconds
+Elapsed: 0.010000 seconds
+Elapsed: 0.010000 seconds
+Elapsed: 0.010000 seconds
+Elapsed: 0.010000 seconds
+Elapsed: 0.010000 seconds
+Elapsed: 0.000000 seconds
+Elapsed: 0.010000 seconds
+Elapsed: 0.010000 seconds
+Elapsed: 0.010000 seconds
+Elapsed: 0.000000 seconds
+Elapsed: 0.010000 seconds
+Elapsed: 0.010000 seconds
+Elapsed: 0.010000 seconds
+Elapsed: 0.010000 seconds
+Elapsed: 0.010000 seconds
+Elapsed: 0.010000 seconds
+Elapsed: 0.000000 seconds
+Elapsed: 0.010000 seconds
+Elapsed: 0.000000 seconds
+Elapsed: 0.010000 seconds
+Elapsed: 0.010000 seconds
+Elapsed: 0.010000 seconds
+Elapsed: 0.010000 seconds
+Elapsed: 0.010000 seconds
+Elapsed: 0.000000 seconds
+Elapsed: 0.010000 seconds
+Elapsed: 0.000000 seconds
+Elapsed: 0.010000 seconds
+Elapsed: 0.000000 seconds
+Elapsed: 0.010000 seconds
+Elapsed: 0.010000 seconds
+Elapsed: 0.000000 seconds
+Elapsed: 0.010000 seconds
+Elapsed: 0.010000 seconds
+Elapsed: 0.010000 seconds
+Elapsed: 0.010000 seconds
+Elapsed: 0.020000 seconds
+Elapsed: 0.010000 seconds
+Elapsed: 0.010000 seconds
+Elapsed: 0.010000 seconds
+Elapsed: 0.020000 seconds
+Elapsed: 0.000000 seconds
+Elapsed: 0.010000 seconds
+Elapsed: 0.010000 seconds
+Elapsed: 0.010000 seconds
+Elapsed: 0.010000 seconds
+Elapsed: 0.010000 seconds
+Elapsed: 0.010000 seconds
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 5294726
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+Elapsed: 0.030000 seconds
+Elapsed: 0.020000 seconds
+Elapsed: 0.020000 seconds
+Elapsed: 0.030000 seconds
+Elapsed: 0.030000 seconds
+Elapsed: 0.020000 seconds
+Elapsed: 0.020000 seconds
+Elapsed: 0.030000 seconds
+Elapsed: 0.020000 seconds
+Elapsed: 0.020000 seconds
+Elapsed: 0.030000 seconds
+Elapsed: 0.030000 seconds
+Elapsed: 0.020000 seconds
+Elapsed: 0.020000 seconds
+Elapsed: 0.020000 seconds
+Elapsed: 0.030000 seconds
+ 
+TACC: Shutdown complete. Exiting.

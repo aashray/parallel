@@ -1,0 +1,8 @@
+TACC: Starting up job 5001671
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+[c429-802.stampede.tacc.utexas.edu:mpispawn_0][child_handler] MPI process (rank: 0, pid: 130671) terminated with signal 9 -> abort job
+[c429-802.stampede.tacc.utexas.edu:mpirun_rsh][process_mpispawn_connection] mpispawn_0 from node c429-802 aborted: MPI process error (1)
+TACC: MPI job exited with code: 1
+ 
+TACC: Shutdown complete. Exiting.

@@ -1,0 +1,115 @@
+TACC: Starting up job 5293146
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+Size = 1024, I am processor 0
+ Matrix A: 
+-7 7
+1 -10
+Matrix B:
+-4 5
+-10 7
+Size = 1024, I am processor 8
+ Matrix A: 
+1 15
+9 -2
+Matrix B:
+4 13
+-2 15
+Size = 1024, I am processor 9
+ Matrix A: 
+2 16
+10 -1
+Matrix B:
+5 14
+-1 16
+Size = 1024, I am processor 10
+ Matrix A: 
+3 17
+11 0
+Matrix B:
+6 15
+0 17
+Size = 1024, I am processor 7
+ Matrix A: 
+0 14
+8 -3
+Matrix B:
+3 12
+-3 14
+Size = 1024, I am processor 5
+ Matrix A: 
+-2 12
+6 -5
+Matrix B:
+1 10
+-5 12
+Size = 1024, I am processor 1
+ Matrix A: 
+-6 8
+2 -9
+Matrix B:
+-3 6
+-9 8
+Size = 1024, I am processor 15
+ Matrix A: 
+8 22
+16 5
+Matrix B:
+11 20
+5 22
+Size = 1024, I am processor 11
+ Matrix A: 
+4 18
+12 1
+Matrix B:
+7 16
+1 18
+Size = 1024, I am processor 14
+ Matrix A: 
+7 21
+15 4
+Matrix B:
+10 19
+4 21
+Size = 1024, I am processor 2
+ Matrix A: 
+-5 9
+3 -8
+Matrix B:
+-2 7
+-8 9
+Size = 1024, I am processor 12
+ Matrix A: 
+5 19
+13 2
+Matrix B:
+8 17
+2 19
+Size = 1024, I am processor 13
+ Matrix A: 
+6 20
+14 3
+Matrix B:
+9 18
+3 20
+Size = 1024, I am processor 6
+ Matrix A: 
+-1 13
+7 -4
+Matrix B:
+2 11
+-4 13
+Size = 1024, I am processor 4
+ Matrix A: 
+-3 11
+5 -6
+Matrix B:
+0 9
+-6 11
+Size = 1024, I am processor 3
+ Matrix A: 
+-4 10
+4 -7
+Matrix B:
+-1 8
+-7 10

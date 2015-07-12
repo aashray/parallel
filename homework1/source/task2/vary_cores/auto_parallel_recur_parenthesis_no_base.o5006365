@@ -1,0 +1,6 @@
+TACC: Starting up job 5006365
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+CPU time used for matrix size = 8192 with base case = 1 and nworkers 3 = is : 3376.550000
+ 
+TACC: Shutdown complete. Exiting.

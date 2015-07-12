@@ -1,0 +1,607 @@
+TACC: Starting up job 5286060
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+Size = 512, I am processor 0
+ Matrix A: 
+-7 7
+1 0
+Matrix B:
+-4 5
+-6 -7
+Size = 512, I am processor 4
+ Matrix A: 
+-3 11
+5 4
+Matrix B:
+0 9
+-2 -3
+Size = 512, I am processor 3
+ Matrix A: 
+-4 10
+4 3
+Matrix B:
+-1 8
+-3 -4
+Size = 512, I am processor 5
+ Matrix A: 
+-2 12
+6 5
+Matrix B:
+1 10
+-1 -2
+Size = 512, I am processor 9
+ Matrix A: 
+2 16
+10 9
+Matrix B:
+5 14
+3 2
+Size = 512, I am processor 12
+ Matrix A: 
+5 19
+13 12
+Matrix B:
+8 17
+6 5
+Size = 512, I am processor 1
+ Matrix A: 
+-6 8
+2 1
+Matrix B:
+-3 6
+-5 -6
+Size = 512, I am processor 2
+ Matrix A: 
+-5 9
+3 2
+Matrix B:
+-2 7
+-4 -5
+Size = 512, I am processor 13
+ Matrix A: 
+6 20
+14 13
+Matrix B:
+9 18
+7 6
+Size = 512, I am processor 11
+ Matrix A: 
+4 18
+12 11
+Matrix B:
+7 16
+5 4
+Size = 512, I am processor 10
+ Matrix A: 
+3 17
+11 10
+Matrix B:
+6 15
+4 3
+Size = 512, I am processor 8
+ Matrix A: 
+1 15
+9 8
+Matrix B:
+4 13
+2 1
+Size = 512, I am processor 15
+ Matrix A: 
+8 22
+16 15
+Matrix B:
+11 20
+9 8
+Size = 512, I am processor 7
+ Matrix A: 
+0 14
+8 7
+Matrix B:
+3 12
+1 0
+Size = 512, I am processor 14
+ Matrix A: 
+7 21
+15 14
+Matrix B:
+10 19
+8 7
+Size = 512, I am processor 6
+ Matrix A: 
+-1 13
+7 6
+Matrix B:
+2 11
+0 -1
+After initial, Size = 512, I am processor 0
+ Matrix A: 
+-7 7
+1 0
+Matrix B:
+-4 5
+-6 -7
+After initial, Size = 512, I am processor 8
+ Matrix A: 
+3 17
+11 10
+Matrix B:
+4 13
+2 1
+After initial, Size = 512, I am processor 12
+ Matrix A: 
+8 22
+16 15
+Matrix B:
+8 17
+6 5
+After initial, Size = 512, I am processor 4
+ Matrix A: 
+-2 12
+6 5
+Matrix B:
+0 9
+-2 -3
+After initial, Size = 512, I am processor 6
+ Matrix A: 
+0 14
+8 7
+Matrix B:
+10 19
+8 7
+After initial, Size = 512, I am processor 14
+ Matrix A: 
+6 20
+14 13
+Matrix B:
+2 11
+0 -1
+After initial, Size = 512, I am processor 13
+ Matrix A: 
+5 19
+13 12
+Matrix B:
+-3 6
+-5 -6
+After initial, Size = 512, I am processor 2
+ Matrix A: 
+-5 9
+3 2
+Matrix B:
+6 15
+4 3
+After initial, Size = 512, I am processor 10
+ Matrix A: 
+1 15
+9 8
+Matrix B:
+-2 7
+-4 -5
+After initial, Size = 512, I am processor 5
+ Matrix A: 
+-1 13
+7 6
+Matrix B:
+5 14
+3 2
+After initial, Size = 512, I am processor 1
+ Matrix A: 
+-6 8
+2 1
+Matrix B:
+1 10
+-1 -2
+After initial, Size = 512, I am processor 9
+ Matrix A: 
+4 18
+12 11
+Matrix B:
+9 18
+7 6
+After initial, Size = 512, I am processor 11
+ Matrix A: 
+2 16
+10 9
+Matrix B:
+3 12
+1 0
+After initial, Size = 512, I am processor 7
+ Matrix A: 
+-3 11
+5 4
+Matrix B:
+-1 8
+-3 -4
+After initial, Size = 512, I am processor 15
+ Matrix A: 
+7 21
+15 14
+Matrix B:
+7 16
+5 4
+After initial, Size = 512, I am processor 3
+ Matrix A: 
+-4 10
+4 3
+Matrix B:
+11 20
+9 8
+After everything, Size = 512, I am processor 14
+ Matrix C: 
+212590 209494
+203778 198286
+After everything, Size = 512, I am processor 4
+ Matrix C: 
+66118 65774
+58538 55798
+After everything, Size = 512, I am processor 9
+ Matrix C: 
+131162 129442
+122966 118850
+After everything, Size = 512, I am processor 11
+ Matrix C: 
+168738 167018
+159310 155194
+After everything, Size = 512, I am processor 10
+ Matrix C: 
+149950 148230
+141138 137022
+After everything, Size = 512, I am processor 12
+ Matrix C: 
+158630 155534
+151050 145558
+After everything, Size = 512, I am processor 6
+ Matrix C: 
+87310 86966
+78498 75758
+After everything, Size = 512, I am processor 1
+ Matrix C: 
+22266 23298
+14070 12706
+After everything, Size = 512, I am processor 13
+ Matrix C: 
+185610 182514
+177414 171922
+After everything, Size = 512, I am processor 8
+ Matrix C: 
+112374 110654
+104794 100678
+After everything, Size = 512, I am processor 5
+ Matrix C: 
+76714 76370
+68518 65778
+After everything, Size = 512, I am processor 7
+ Matrix C: 
+97906 97562
+88478 85738
+After everything, Size = 512, I am processor 2
+ Matrix C: 
+24670 25702
+15858 14494
+After everything, Size = 512, I am processor 0
+ Matrix C: 
+19862 20894
+12282 10918
+After everything, Size = 512, I am processor 15
+ Matrix C: 
+239570 236474
+230142 224650
+After everything, Size = 512, I am processor 3
+ Matrix C: 
+27074 28106
+17646 16282
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 5286094
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+Size = 512, I am processor 0
+ Matrix A: 
+-7 7
+1 0
+Matrix B:
+-4 5
+-6 -7
+Size = 512, I am processor 13
+ Matrix A: 
+6 20
+14 13
+Matrix B:
+9 18
+7 6
+Size = 512, I am processor 3
+ Matrix A: 
+-4 10
+4 3
+Matrix B:
+-1 8
+-3 -4
+Size = 512, I am processor 8
+ Matrix A: 
+1 15
+9 8
+Matrix B:
+4 13
+2 1
+Size = 512, I am processor 2
+ Matrix A: 
+-5 9
+3 2
+Matrix B:
+-2 7
+-4 -5
+Size = 512, I am processor 10
+ Matrix A: 
+3 17
+11 10
+Matrix B:
+6 15
+4 3
+Size = 512, I am processor 11
+ Matrix A: 
+4 18
+12 11
+Matrix B:
+7 16
+5 4
+Size = 512, I am processor 12
+ Matrix A: 
+5 19
+13 12
+Matrix B:
+8 17
+6 5
+Size = 512, I am processor 5
+ Matrix A: 
+-2 12
+6 5
+Matrix B:
+1 10
+-1 -2
+Size = 512, I am processor 9
+ Matrix A: 
+2 16
+10 9
+Matrix B:
+5 14
+3 2
+Size = 512, I am processor 6
+ Matrix A: 
+-1 13
+7 6
+Matrix B:
+2 11
+0 -1
+Size = 512, I am processor 14
+ Matrix A: 
+7 21
+15 14
+Matrix B:
+10 19
+8 7
+Size = 512, I am processor 4
+ Matrix A: 
+-3 11
+5 4
+Matrix B:
+0 9
+-2 -3
+Size = 512, I am processor 7
+ Matrix A: 
+0 14
+8 7
+Matrix B:
+3 12
+1 0
+Size = 512, I am processor 1
+ Matrix A: 
+-6 8
+2 1
+Matrix B:
+-3 6
+-5 -6
+Size = 512, I am processor 15
+ Matrix A: 
+8 22
+16 15
+Matrix B:
+11 20
+9 8
+After initial, Size = 512, I am processor 0
+ Matrix A: 
+-7 7
+1 0
+Matrix B:
+-4 5
+-6 -7
+After initial, Size = 512, I am processor 8
+ Matrix A: 
+3 17
+11 10
+Matrix B:
+4 13
+2 1
+After initial, Size = 512, I am processor 4
+ Matrix A: 
+-2 12
+6 5
+Matrix B:
+0 9
+-2 -3
+After initial, Size = 512, I am processor 12
+ Matrix A: 
+8 22
+16 15
+Matrix B:
+8 17
+6 5
+After initial, Size = 512, I am processor 2
+ Matrix A: 
+-5 9
+3 2
+Matrix B:
+6 15
+4 3
+After initial, Size = 512, I am processor 10
+ Matrix A: 
+1 15
+9 8
+Matrix B:
+-2 7
+-4 -5
+After initial, Size = 512, I am processor 14
+ Matrix A: 
+6 20
+14 13
+Matrix B:
+2 11
+0 -1
+After initial, Size = 512, I am processor 6
+ Matrix A: 
+0 14
+8 7
+Matrix B:
+10 19
+8 7
+After initial, Size = 512, I am processor 1
+ Matrix A: 
+-6 8
+2 1
+Matrix B:
+1 10
+-1 -2
+After initial, Size = 512, I am processor 13
+ Matrix A: 
+5 19
+13 12
+Matrix B:
+-3 6
+-5 -6
+After initial, Size = 512, I am processor 5
+ Matrix A: 
+-1 13
+7 6
+Matrix B:
+5 14
+3 2
+After initial, Size = 512, I am processor 11
+ Matrix A: 
+2 16
+10 9
+Matrix B:
+3 12
+1 0
+After initial, Size = 512, I am processor 7
+ Matrix A: 
+-3 11
+5 4
+Matrix B:
+-1 8
+-3 -4
+After initial, Size = 512, I am processor 9
+ Matrix A: 
+4 18
+12 11
+Matrix B:
+9 18
+7 6
+After initial, Size = 512, I am processor 3
+ Matrix A: 
+-4 10
+4 3
+Matrix B:
+11 20
+9 8
+After initial, Size = 512, I am processor 15
+ Matrix A: 
+7 21
+15 14
+Matrix B:
+7 16
+5 4
+After everything, Size = 512, I am processor 13
+ Matrix C: 
+185610 182514
+177414 171922
+After everything, Size = 512, I am processor 0
+ Matrix C: 
+19862 20894
+12282 10918
+After everything, Size = 512, I am processor 2
+ Matrix C: 
+24670 25702
+15858 14494
+After everything, Size = 512, I am processor 15
+ Matrix C: 
+239570 236474
+230142 224650
+After everything, Size = 512, I am processor 1
+ Matrix C: 
+22266 23298
+14070 12706
+After everything, Size = 512, I am processor 3
+ Matrix C: 
+27074 28106
+17646 16282
+After everything, Size = 512, I am processor 7
+ Matrix C: 
+97906 97562
+88478 85738
+After everything, Size = 512, I am processor 8
+ Matrix C: 
+112374 110654
+104794 100678
+After everything, Size = 512, I am processor 4
+ Matrix C: 
+66118 65774
+58538 55798
+After everything, Size = 512, I am processor 14
+ Matrix C: 
+212590 209494
+203778 198286
+After everything, Size = 512, I am processor 5
+ Matrix C: 
+76714 76370
+68518 65778
+After everything, Size = 512, I am processor 12
+ Matrix C: 
+158630 155534
+151050 145558
+After everything, Size = 512, I am processor 6
+ Matrix C: 
+87310 86966
+78498 75758
+After everything, Size = 512, I am processor 9
+ Matrix C: 
+131162 129442
+122966 118850
+After everything, Size = 512, I am processor 10
+ Matrix C: 
+149950 148230
+141138 137022
+After everything, Size = 512, I am processor 11
+ Matrix C: 
+168738 167018
+159310 155194
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 5286082
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+Elapsed: 0.220000 seconds
+Elapsed: 0.220000 seconds
+Elapsed: 0.210000 seconds
+Elapsed: 0.220000 seconds
+Elapsed: 0.220000 seconds
+Elapsed: 0.210000 seconds
+Elapsed: 0.220000 seconds
+Elapsed: 0.220000 seconds
+Elapsed: 0.210000 seconds
+Elapsed: 0.220000 seconds
+Elapsed: 0.220000 seconds
+Elapsed: 0.220000 seconds
+Elapsed: 0.230000 seconds
+Elapsed: 0.210000 seconds
+Elapsed: 0.220000 seconds
+Elapsed: 0.220000 seconds
+ 
+TACC: Shutdown complete. Exiting.

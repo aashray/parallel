@@ -1,0 +1,12 @@
+
+Cilkview: Generating scalability data
+
+cilkview: plotting data for "det-cc-cilkviewapi-v2"
+
+cilkview: plotting data for "Whole_Program"
+
+cilkview: plotting data for "Cilk_Parallel_Region(s)"
+
+cilkview: plotting data for "Whole_Program"
+
+cilkview: plotting data for "Cilk_Parallel_Region(s)"

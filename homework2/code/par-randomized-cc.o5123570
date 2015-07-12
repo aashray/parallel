@@ -1,0 +1,3 @@
+[c428-001.stampede.tacc.utexas.edu:mpispawn_0][child_handler] MPI process (rank: 5, pid: 58758) terminated with signal 11 -> abort job
+scheduler.c:802: cilk assertion failed: victim != w
+[c428-001.stampede.tacc.utexas.edu:mpirun_rsh][process_mpispawn_connection] mpispawn_0 from node c428-001 aborted: MPI process error (1)

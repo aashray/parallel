@@ -1,0 +1,4 @@
+*** glibc detected *** /home1/03442/tg827408/hw2/par-deterministic-cc.o: double free or corruption (fasttop): 0x0000000000c08ea0 ***
+*** glibc detected *** /home1/03442/tg827408/hw2/par-deterministic-cc.o: double free or corruption (fasttop): 0x00002b5d24008d60 ***
+[c401-002.stampede.tacc.utexas.edu:mpispawn_0][child_handler] MPI process (rank: 0, pid: 26788) terminated with signal 11 -> abort job
+[c401-002.stampede.tacc.utexas.edu:mpirun_rsh][process_mpispawn_connection] mpispawn_0 from node c401-002 aborted: MPI process error (1)

@@ -1,0 +1,117 @@
+TACC: Starting up job 5279574
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+Size = 256, I am processor 0
+ Matrix A: 
+-7 7
+7 0
+Matrix B:
+-4 5
+4 -4
+Size = 256, I am processor 5
+ Matrix A: 
+-2 12
+12 5
+Matrix B:
+1 10
+9 1
+Size = 256, I am processor 14
+ Matrix A: 
+7 21
+21 14
+Matrix B:
+10 19
+18 10
+Size = 256, I am processor 12
+ Matrix A: 
+5 19
+19 12
+Matrix B:
+8 17
+16 8
+Size = 256, I am processor 1
+ Matrix A: 
+-6 8
+8 1
+Matrix B:
+-3 6
+5 -3
+Size = 256, I am processor 13
+ Matrix A: 
+6 20
+20 13
+Matrix B:
+9 18
+17 9
+Size = 256, I am processor 9
+ Matrix A: 
+2 16
+16 9
+Matrix B:
+5 14
+13 5
+Size = 256, I am processor 8
+ Matrix A: 
+1 15
+15 8
+Matrix B:
+4 13
+12 4
+Size = 256, I am processor 10
+ Matrix A: 
+3 17
+17 10
+Matrix B:
+6 15
+14 6
+Size = 256, I am processor 6
+ Matrix A: 
+-1 13
+13 6
+Matrix B:
+2 11
+10 2
+Size = 256, I am processor 11
+ Matrix A: 
+4 18
+18 11
+Matrix B:
+7 16
+15 7
+Size = 256, I am processor 3
+ Matrix A: 
+-4 10
+10 3
+Matrix B:
+-1 8
+7 -1
+Size = 256, I am processor 4
+ Matrix A: 
+-3 11
+11 4
+Matrix B:
+0 9
+8 0
+Size = 256, I am processor 7
+ Matrix A: 
+0 14
+14 7
+Matrix B:
+3 12
+11 3
+Size = 256, I am processor 15
+ Matrix A: 
+8 22
+22 15
+Matrix B:
+11 20
+19 11
+Size = 256, I am processor 2
+ Matrix A: 
+-5 9
+9 2
+Matrix B:
+-2 7
+6 -2
+slurmd[c496-402]: *** JOB 5279574 CANCELLED AT 2015-05-16T20:37:34 DUE TO TIME LIMIT ***
+[c496-402.stampede.tacc.utexas.edu:mpirun_rsh][signal_processor] Caught signal 15, killing job

@@ -1,0 +1,5 @@
+TACC: Starting up job 5285025
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+slurmd[c557-403]: *** JOB 5285025 CANCELLED AT 2015-05-18T14:46:02 ***
+[c557-403.stampede.tacc.utexas.edu:mpirun_rsh][signal_processor] Caught signal 15, killing job

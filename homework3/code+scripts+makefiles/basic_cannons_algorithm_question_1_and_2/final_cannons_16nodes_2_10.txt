@@ -1,0 +1,293 @@
+TACC: Starting up job 5286102
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+Size = 256, I am processor 0
+ Matrix A: 
+-7 7
+7 0
+Matrix B:
+-4 5
+4 -4
+Size = 256, I am processor 14
+ Matrix A: 
+7 21
+21 14
+Matrix B:
+10 19
+18 10
+Size = 256, I am processor 15
+ Matrix A: 
+8 22
+22 15
+Matrix B:
+11 20
+19 11
+Size = 256, I am processor 7
+ Matrix A: 
+0 14
+14 7
+Matrix B:
+3 12
+11 3
+Size = 256, I am processor 1
+ Matrix A: 
+-6 8
+8 1
+Matrix B:
+-3 6
+5 -3
+Size = 256, I am processor 11
+ Matrix A: 
+4 18
+18 11
+Matrix B:
+7 16
+15 7
+Size = 256, I am processor 4
+ Matrix A: 
+-3 11
+11 4
+Matrix B:
+0 9
+8 0
+Size = 256, I am processor 9
+ Matrix A: 
+2 16
+16 9
+Matrix B:
+5 14
+13 5
+Size = 256, I am processor 6
+ Matrix A: 
+-1 13
+13 6
+Matrix B:
+2 11
+10 2
+Size = 256, I am processor 5
+ Matrix A: 
+-2 12
+12 5
+Matrix B:
+1 10
+9 1
+Size = 256, I am processor 12
+ Matrix A: 
+5 19
+19 12
+Matrix B:
+8 17
+16 8
+Size = 256, I am processor 10
+ Matrix A: 
+3 17
+17 10
+Matrix B:
+6 15
+14 6
+Size = 256, I am processor 3
+ Matrix A: 
+-4 10
+10 3
+Matrix B:
+-1 8
+7 -1
+Size = 256, I am processor 8
+ Matrix A: 
+1 15
+15 8
+Matrix B:
+4 13
+12 4
+Size = 256, I am processor 2
+ Matrix A: 
+-5 9
+9 2
+Matrix B:
+-2 7
+6 -2
+After initial, Size = 256, I am processor 8
+ Matrix A: 
+3 17
+17 10
+Matrix B:
+4 13
+12 4
+After initial, Size = 256, I am processor 0
+ Matrix A: 
+-7 7
+7 0
+Matrix B:
+-4 5
+4 -4
+Size = 256, I am processor 13
+ Matrix A: 
+6 20
+20 13
+Matrix B:
+9 18
+17 9
+After initial, Size = 256, I am processor 10
+ Matrix A: 
+1 15
+15 8
+Matrix B:
+-2 7
+6 -2
+After initial, Size = 256, I am processor 2
+ Matrix A: 
+-5 9
+9 2
+Matrix B:
+6 15
+14 6
+After initial, Size = 256, I am processor 12
+ Matrix A: 
+8 22
+22 15
+Matrix B:
+8 17
+16 8
+After initial, Size = 256, I am processor 4
+ Matrix A: 
+-2 12
+12 5
+Matrix B:
+0 9
+8 0
+After initial, Size = 256, I am processor 15
+ Matrix A: 
+7 21
+21 14
+Matrix B:
+7 16
+15 7
+After initial, Size = 256, I am processor 9
+ Matrix A: 
+4 18
+18 11
+Matrix B:
+9 18
+17 9
+After initial, Size = 256, I am processor 1
+ Matrix A: 
+-6 8
+8 1
+Matrix B:
+1 10
+9 1
+After initial, Size = 256, I am processor 6
+ Matrix A: 
+0 14
+14 7
+Matrix B:
+10 19
+18 10
+After initial, Size = 256, I am processor 14
+ Matrix A: 
+6 20
+20 13
+Matrix B:
+2 11
+10 2
+After initial, Size = 256, I am processor 5
+ Matrix A: 
+-1 13
+13 6
+Matrix B:
+5 14
+13 5
+After initial, Size = 256, I am processor 7
+ Matrix A: 
+-3 11
+11 4
+Matrix B:
+-1 8
+7 -1
+After initial, Size = 256, I am processor 11
+ Matrix A: 
+2 16
+16 9
+Matrix B:
+3 12
+11 3
+After initial, Size = 256, I am processor 13
+ Matrix A: 
+5 19
+19 12
+Matrix B:
+-3 6
+5 -3
+After initial, Size = 256, I am processor 3
+ Matrix A: 
+-4 10
+10 3
+Matrix B:
+11 20
+19 11
+After everything, Size = 256, I am processor 0
+ Matrix C: 
+7526 12924
+16782 14256
+After everything, Size = 256, I am processor 8
+ Matrix C: 
+50438 60732
+59694 62064
+After everything, Size = 256, I am processor 9
+ Matrix C: 
+59290 69584
+69630 72000
+After everything, Size = 256, I am processor 10
+ Matrix C: 
+68142 78436
+79566 81936
+After everything, Size = 256, I am processor 1
+ Matrix C: 
+8186 13584
+18526 16000
+After everything, Size = 256, I am processor 13
+ Matrix C: 
+84842 97584
+95182 100000
+After everything, Size = 256, I am processor 11
+ Matrix C: 
+76994 87288
+89502 91872
+After everything, Size = 256, I am processor 12
+ Matrix C: 
+71894 84636
+81150 85968
+After everything, Size = 256, I am processor 2
+ Matrix C: 
+8846 14244
+20270 17744
+After everything, Size = 256, I am processor 3
+ Matrix C: 
+9506 14904
+22014 19488
+After everything, Size = 256, I am processor 15
+ Matrix C: 
+110738 123480
+123246 128064
+After everything, Size = 256, I am processor 4
+ Matrix C: 
+28982 36828
+38238 38160
+After everything, Size = 256, I am processor 6
+ Matrix C: 
+38494 46340
+49918 49840
+After everything, Size = 256, I am processor 7
+ Matrix C: 
+43250 51096
+55758 55680
+After everything, Size = 256, I am processor 5
+ Matrix C: 
+33738 41584
+44078 44000
+After everything, Size = 256, I am processor 14
+ Matrix C: 
+97790 110532
+109214 114032
+ 
+TACC: Shutdown complete. Exiting.

@@ -1,0 +1,613 @@
+TACC: Starting up job 5285809
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+Size = 4, I am processor 0
+ Matrix A: 
+-7 7
+-1 -8
+Matrix B:
+-4 5
+-9 -3
+Size = 4, I am processor 9
+ Matrix A: 
+2 16
+8 1
+Matrix B:
+5 14
+0 6
+Size = 4, I am processor 7
+ Matrix A: 
+0 14
+6 -1
+Matrix B:
+3 12
+-2 4
+Size = 4, I am processor 15
+ Matrix A: 
+8 22
+14 7
+Matrix B:
+11 20
+6 12
+Size = 4, I am processor 5
+ Matrix A: 
+-2 12
+4 -3
+Matrix B:
+1 10
+-4 2
+Size = 4, I am processor 2
+ Matrix A: 
+-5 9
+1 -6
+Matrix B:
+-2 7
+-7 -1
+Size = 4, I am processor 1
+ Matrix A: 
+-6 8
+0 -7
+Matrix B:
+-3 6
+-8 -2
+Size = 4, I am processor 11
+ Matrix A: 
+4 18
+10 3
+Matrix B:
+7 16
+2 8
+Size = 4, I am processor 4
+ Matrix A: 
+-3 11
+3 -4
+Matrix B:
+0 9
+-5 1
+Size = 4, I am processor 13
+ Matrix A: 
+6 20
+12 5
+Matrix B:
+9 18
+4 10
+Size = 4, I am processor 3
+ Matrix A: 
+-4 10
+2 -5
+Matrix B:
+-1 8
+-6 0
+Size = 4, I am processor 12
+ Matrix A: 
+5 19
+11 4
+Matrix B:
+8 17
+3 9
+Size = 4, I am processor 8
+ Matrix A: 
+1 15
+7 0
+Matrix B:
+4 13
+-1 5
+Size = 4, I am processor 6
+ Matrix A: 
+-1 13
+5 -2
+Matrix B:
+2 11
+-3 3
+Size = 4, I am processor 10
+ Matrix A: 
+3 17
+9 2
+Matrix B:
+6 15
+1 7
+Size = 4, I am processor 14
+ Matrix A: 
+7 21
+13 6
+Matrix B:
+10 19
+5 11
+After initial, Size = 4, I am processor 15
+ Matrix A: 
+7 21
+13 6
+Matrix B:
+7 16
+2 8
+After initial, Size = 4, I am processor 9
+ Matrix A: 
+4 18
+10 3
+Matrix B:
+9 18
+4 10
+After initial, Size = 4, I am processor 14
+ Matrix A: 
+6 20
+12 5
+Matrix B:
+2 11
+-3 3
+After initial, Size = 4, I am processor 5
+ Matrix A: 
+-1 13
+5 -2
+Matrix B:
+5 14
+0 6
+After initial, Size = 4, I am processor 6
+ Matrix A: 
+0 14
+6 -1
+Matrix B:
+10 19
+5 11
+After initial, Size = 4, I am processor 11
+ Matrix A: 
+2 16
+8 1
+Matrix B:
+3 12
+-2 4
+TACC: MPI job exited with code: 1
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 5285817
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+Size = 4, I am processor 0
+ Matrix A: 
+-7 7
+-1 -8
+Matrix B:
+-4 5
+-9 -3
+Size = 4, I am processor 13
+ Matrix A: 
+6 20
+12 5
+Matrix B:
+9 18
+4 10
+Size = 4, I am processor 2
+ Matrix A: 
+-5 9
+1 -6
+Matrix B:
+-2 7
+-7 -1
+Size = 4, I am processor 12
+ Matrix A: 
+5 19
+11 4
+Matrix B:
+8 17
+3 9
+Size = 4, I am processor 15
+ Matrix A: 
+8 22
+14 7
+Matrix B:
+11 20
+6 12
+Size = 4, I am processor 5
+ Matrix A: 
+-2 12
+4 -3
+Matrix B:
+1 10
+-4 2
+Size = 4, I am processor 14
+ Matrix A: 
+7 21
+13 6
+Matrix B:
+10 19
+5 11
+Size = 4, I am processor 7
+ Matrix A: 
+0 14
+6 -1
+Matrix B:
+3 12
+-2 4
+Size = 4, I am processor 3
+ Matrix A: 
+-4 10
+2 -5
+Matrix B:
+-1 8
+-6 0
+Size = 4, I am processor 1
+ Matrix A: 
+-6 8
+0 -7
+Matrix B:
+-3 6
+-8 -2
+Size = 4, I am processor 6
+ Matrix A: 
+-1 13
+5 -2
+Matrix B:
+2 11
+-3 3
+Size = 4, I am processor 4
+ Matrix A: 
+-3 11
+3 -4
+Matrix B:
+0 9
+-5 1
+Size = 4, I am processor 11
+ Matrix A: 
+4 18
+10 3
+Matrix B:
+7 16
+2 8
+Size = 4, I am processor 9
+ Matrix A: 
+2 16
+8 1
+Matrix B:
+5 14
+0 6
+Size = 4, I am processor 10
+ Matrix A: 
+3 17
+9 2
+Matrix B:
+6 15
+1 7
+Size = 4, I am processor 8
+ Matrix A: 
+1 15
+7 0
+Matrix B:
+4 13
+-1 5
+After initial, Size = 4, I am processor 9
+ Matrix A: 
+4 18
+10 3
+Matrix B:
+9 18
+4 10
+After initial, Size = 4, I am processor 15
+ Matrix A: 
+7 21
+13 6
+Matrix B:
+7 16
+2 8
+After initial, Size = 4, I am processor 14
+ Matrix A: 
+6 20
+12 5
+Matrix B:
+2 11
+-3 3
+After initial, Size = 4, I am processor 5
+ Matrix A: 
+-1 13
+5 -2
+Matrix B:
+5 14
+0 6
+After initial, Size = 4, I am processor 11
+ Matrix A: 
+2 16
+8 1
+Matrix B:
+3 12
+-2 4
+After initial, Size = 4, I am processor 6
+ Matrix A: 
+0 14
+6 -1
+Matrix B:
+10 19
+5 11
+TACC: MPI job exited with code: 1
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 5286039
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+Size = 4, I am processor 0
+ Matrix A: 
+-7 7
+-1 -8
+Matrix B:
+-4 5
+-9 -3
+After initial, Size = 4, I am processor 0
+ Matrix A: 
+-7 7
+-1 -8
+Matrix B:
+-4 5
+-9 -3
+Size = 4, I am processor 3
+ Matrix A: 
+-4 10
+2 -5
+Matrix B:
+-1 8
+-6 0
+Size = 4, I am processor 5
+ Matrix A: 
+-2 12
+4 -3
+Matrix B:
+1 10
+-4 2
+Size = 4, I am processor 11
+ Matrix A: 
+4 18
+10 3
+Matrix B:
+7 16
+2 8
+Size = 4, I am processor 9
+ Matrix A: 
+2 16
+8 1
+Matrix B:
+5 14
+0 6
+After initial, Size = 4, I am processor 9
+ Matrix A: 
+4 18
+10 3
+Matrix B:
+9 18
+4 10
+After initial, Size = 4, I am processor 11
+ Matrix A: 
+2 16
+8 1
+Matrix B:
+3 12
+-2 4
+After initial, Size = 4, I am processor 3
+ Matrix A: 
+-4 10
+2 -5
+Matrix B:
+11 20
+6 12
+Size = 4, I am processor 6
+ Matrix A: 
+-1 13
+5 -2
+Matrix B:
+2 11
+-3 3
+After initial, Size = 4, I am processor 6
+ Matrix A: 
+0 14
+6 -1
+Matrix B:
+10 19
+5 11
+Size = 4, I am processor 10
+ Matrix A: 
+3 17
+9 2
+Matrix B:
+6 15
+1 7
+After initial, Size = 4, I am processor 10
+ Matrix A: 
+1 15
+7 0
+Matrix B:
+-2 7
+-7 -1
+Size = 4, I am processor 13
+ Matrix A: 
+6 20
+12 5
+Matrix B:
+9 18
+4 10
+After initial, Size = 4, I am processor 13
+ Matrix A: 
+5 19
+11 4
+Matrix B:
+-3 6
+-8 -2
+Size = 4, I am processor 8
+ Matrix A: 
+1 15
+7 0
+Matrix B:
+4 13
+-1 5
+After initial, Size = 4, I am processor 8
+ Matrix A: 
+3 17
+9 2
+Matrix B:
+4 13
+-1 5
+Size = 4, I am processor 1
+ Matrix A: 
+-6 8
+0 -7
+Matrix B:
+-3 6
+-8 -2
+Size = 4, I am processor 12
+ Matrix A: 
+5 19
+11 4
+Matrix B:
+8 17
+3 9
+After initial, Size = 4, I am processor 12
+ Matrix A: 
+8 22
+14 7
+Matrix B:
+8 17
+3 9
+After initial, Size = 4, I am processor 1
+ Matrix A: 
+-6 8
+0 -7
+Matrix B:
+1 10
+-4 2
+Size = 4, I am processor 7
+ Matrix A: 
+0 14
+6 -1
+Matrix B:
+3 12
+-2 4
+Size = 4, I am processor 14
+ Matrix A: 
+7 21
+13 6
+Matrix B:
+10 19
+5 11
+After initial, Size = 4, I am processor 14
+ Matrix A: 
+6 20
+12 5
+Matrix B:
+2 11
+-3 3
+After initial, Size = 4, I am processor 7
+ Matrix A: 
+-3 11
+3 -4
+Matrix B:
+-1 8
+-6 0
+Size = 4, I am processor 15
+ Matrix A: 
+8 22
+14 7
+Matrix B:
+11 20
+6 12
+After initial, Size = 4, I am processor 15
+ Matrix A: 
+7 21
+13 6
+Matrix B:
+7 16
+2 8
+Size = 4, I am processor 2
+ Matrix A: 
+-5 9
+1 -6
+Matrix B:
+-2 7
+-7 -1
+After initial, Size = 4, I am processor 2
+ Matrix A: 
+-5 9
+1 -6
+Matrix B:
+6 15
+1 7
+After everything, Size = 4, I am processor 7
+ Matrix C: 
+274 818
+226 590
+After everything, Size = 4, I am processor 3
+ Matrix C: 
+-30 226
+-78 -2
+After everything, Size = 4, I am processor 1
+ Matrix C: 
+-70 186
+2 78
+After everything, Size = 4, I am processor 0
+ Matrix C: 
+-90 166
+42 118
+After everything, Size = 4, I am processor 9
+ Matrix C: 
+282 1114
+354 1006
+After everything, Size = 4, I am processor 10
+ Matrix C: 
+430 1262
+442 1094
+After everything, Size = 4, I am processor 15
+ Matrix C: 
+882 2002
+834 1774
+After everything, Size = 4, I am processor 8
+ Matrix C: 
+134 966
+266 918
+After everything, Size = 4, I am processor 2
+ Matrix C: 
+-50 206
+-38 38
+After everything, Size = 4, I am processor 6
+ Matrix C: 
+190 734
+202 566
+After everything, Size = 4, I am processor 11
+ Matrix C: 
+578 1410
+530 1182
+After everything, Size = 4, I am processor 12
+ Matrix C: 
+246 1366
+378 1318
+Size = 4, I am processor 4
+ Matrix A: 
+-3 11
+3 -4
+Matrix B:
+0 9
+-5 1
+After initial, Size = 4, I am processor 4
+ Matrix A: 
+-2 12
+4 -3
+Matrix B:
+0 9
+-5 1
+After everything, Size = 4, I am processor 14
+ Matrix C: 
+670 1790
+682 1622
+After everything, Size = 4, I am processor 4
+ Matrix C: 
+22 566
+154 518
+After initial, Size = 4, I am processor 5
+ Matrix A: 
+-1 13
+5 -2
+Matrix B:
+5 14
+0 6
+After everything, Size = 4, I am processor 13
+ Matrix C: 
+458 1578
+530 1470
+After everything, Size = 4, I am processor 5
+ Matrix C: 
+106 650
+178 542
+ 
+TACC: Shutdown complete. Exiting.
